@@ -45,7 +45,7 @@ BiomeRarity: 97
 
 # The hexadecimal color value of this biome. Used in the output of the /tc map command,
 # and used in the input of BiomeMode: FromImage.
-BiomeColor: #D94515
+BiomeColor: #A68F5F
 
 ####################
 # Isle biomes only #
