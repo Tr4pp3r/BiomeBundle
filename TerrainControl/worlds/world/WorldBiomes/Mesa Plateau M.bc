@@ -460,3 +460,23 @@ SpawnWaterCreatures: [{"mob": "Squid", "weight": 10, "min": 4, "max": 4}]
 # The ambient creatures (only bats in vanila) that spawn in this biome
 SpawnAmbientCreatures: [{"mob": "Bat", "weight": 10, "min": 8, "max": 8}]
 
+# Forge Biome Dictionary ID used by other mods to identify a biome and place
+# modded blocks, items and mobs in it.
+# This will only work for modded items/blocks/mobs that are placed in biomes
+# while chunks are being generated. Most mods that add mods add their mobs to
+# biomes' internal mob list when MC starts and let MC's mob spawning mechanics
+# handle the actual spawning. This means that when TC creates new biomes
+# when it generates a world other mods do not add their mobs to those biomes.
+# This can be solved by using the InheritMobsBiomeName setting to inherit a
+# a mob list from a vanilla biome.
+# NOTE: Only works for biomes with id's under < 255 (non-virtual biomes).
+# For virtual biomes the BiomeDictId is inherited via ReplaceToBiomeName.
+BiomeDictId: MESA, SANDY
+
+# Inherit the internal mobs list of another biome. Inherited mobs can be 
+# overridden using the SpawnMonsters, SpawnCreatures, SpawnWaterCreatures
+# and SpawnAmbientCreatures settings. Any mob type defined using those settings
+# will override inherited mob settings for the same mob.
+# Use this setting to inherit modded mobs from vanilla biomes (see also: BiomeDictId)
+InheritMobsBiomeName: Mesa Plateau M
+
