@@ -1,0 +1,142 @@
+Alpine.bc:BiomeColor: #607060
+AlpineConiferMountain.bc:BiomeColor: #607070
+AlpineConiferSnow.bc:BiomeColor: #607080
+AlpineForest.bc:BiomeColor: #607085
+AlpineM.bc:BiomeColor: #607062
+Alps.bc:BiomeColor: #608060
+AlpsEdge.bc:BiomeColor: #608070
+AlpsForest.bc:BiomeColor: #608080
+AlpsMountain1.bc:BiomeColor: #607090
+AlpsMountain2.bc:BiomeColor: #607092
+AlpsMountain3.bc:BiomeColor: #607094
+AlpsMountainEdge2.bc:BiomeColor: #6070A2
+AlpsMountainEdge.bc:BiomeColor: #6070A0
+AlpsMountainHighlands.bc:BiomeColor: #6070B0
+AlpsMountainPeak2.bc:BiomeColor: #6070C2
+AlpsMountainPeak.bc:BiomeColor: #6070C0
+Archipelago.bc:BiomeColor: #001070
+Beach.bc:BiomeColor: #FADE55
+Birch Forest.bc:BiomeColor: #307444
+Birch Forest Hills.bc:BiomeColor: #1F5F32
+Birch Forest Hills M.bc:BiomeColor: #1F502E
+Birch Forest M.bc:BiomeColor: #4E6E58
+Cold Beach.bc:BiomeColor: #FAF0C0
+Cold Taiga.bc:BiomeColor: #31554A
+Cold Taiga Hills.bc:BiomeColor: #243F36
+Cold Taiga M.bc:BiomeColor: #2E5046
+Deep Ocean.bc:BiomeColor: #000030
+Desert.bc:BiomeColor: #FA9418
+DesertHills.bc:BiomeColor: #D25F12
+Desert M.bc:BiomeColor: #E58208
+DesertOasis.bc:BiomeColor: #FF9910
+DesertOasisBorder.bc:BiomeColor: #FF9920
+Extreme Hills.bc:BiomeColor: #606060
+Extreme Hills+.bc:BiomeColor: #507050
+Extreme Hills Edge.bc:BiomeColor: #72789A
+Extreme Hills Jungle.bc:BiomeColor: #507060
+Extreme Hills Jungle Edge.bc:BiomeColor: #507070
+Extreme Hills M.bc:BiomeColor: #525252
+Extreme Hills+ M.bc:BiomeColor: #466246
+FloatingIslands.bc:BiomeColor: #002070
+Flower Forest.bc:BiomeColor: #2D8E49
+FlyingForest.bc:BiomeColor: #003070
+Forest.bc:BiomeColor: #056621
+ForestEnchanted.bc:BiomeColor: #9EC4DE
+ForestHills.bc:BiomeColor: #22551C
+FrozenOcean.bc:BiomeColor: #9090A0
+FrozenRiver.bc:BiomeColor: #A0A0FF
+Glacier.bc:BiomeColor: #FFEEFF
+GlacierM.bc:BiomeColor: #FFEEEE
+Hell.bc:BiomeColor: #FF0000
+Ice Mountains.bc:BiomeColor: #A0A0A0
+Ice Plains.bc:BiomeColor: #FFFFFF
+Ice Plains Spikes.bc:BiomeColor: #8CB4B4
+Jungle.bc:BiomeColor: #537B09
+JungleEdge.bc:BiomeColor: #628B17
+JungleEdge M.bc:BiomeColor: #5A8015
+JungleHills.bc:BiomeColor: #2C4205
+Jungle M.bc:BiomeColor: #4C7009
+Mega Spruce Taiga.bc:BiomeColor: #818E79
+Mega Spruce Taiga Hills.bc:BiomeColor: #475141
+Mega Taiga.bc:BiomeColor: #596651
+Mega Taiga Hills.bc:BiomeColor: #454F3E
+Mesa.bc:BiomeColor: #D94515
+Mesa (Bryce).bc:BiomeColor: #E45627
+Mesa (Bryce) Edge.bc:BiomeColor: #E45628
+Mesa (Bryce) Forest.bc:BiomeColor: #E45629
+Mesa (Bryce) Rocks.bc:BiomeColor: #E4562A
+MesaCanyon.bc:BiomeColor: #CA8C66
+Mesa Desert.bc:BiomeColor: #E45630
+MesaPaintedCanyon.bc:BiomeColor: #CA8C67
+MesaPeak.bc:BiomeColor: #CA8C68
+Mesa Plateau.bc:BiomeColor: #CA8C65
+Mesa Plateau F.bc:BiomeColor: #B09765
+Mesa Plateau F M.bc:BiomeColor: #A68F5F
+Mesa Plateau M.bc:BiomeColor: #B77F5C
+Mesa River.bc:BiomeColor: #CA8C6C
+Mesa Rock.bc:BiomeColor: #B09768
+Mesa Sandstone.bc:BiomeColor: #E45632
+Mesa Sandstone Edge.bc:BiomeColor: #E45634
+Mesa Sandstone M.bc:BiomeColor: #E45636
+Mesa Sandstone Peak.bc:BiomeColor: #E45638
+Mesa Small.bc:BiomeColor: #E45640
+Mesa Small Edge.bc:BiomeColor: #E45642
+Mesa Small M.bc:BiomeColor: #E45644
+Mesa Verde.bc:BiomeColor: #CA8C76
+MesaVerdeCanyon.bc:BiomeColor: #CA8C70
+MesaVerdeCanyonHigh.bc:BiomeColor: #CA8C72
+MesaVerdeCanyonMid.bc:BiomeColor: #CA8C74
+Mesa Verde Edge.bc:BiomeColor: #CA8C77
+Mesa Verde Forest.bc:BiomeColor: #CA8C78
+Mesa Verde Mountain.bc:BiomeColor: #CA8C7A
+MushroomIsland.bc:BiomeColor: #FF00FF
+MushroomIslandShore.bc:BiomeColor: #A000FF
+Ocean.bc:BiomeColor: #000070
+OceanDesertIsland.bc:BiomeColor: #004070
+OceanForestHighlands.bc:BiomeColor: #005070
+OceanForestIsland.bc:BiomeColor: #006070
+Ocean Island.bc:BiomeColor: #007070
+OceanIslandDesert.bc:BiomeColor: #007270
+OceanIslandForest.bc:BiomeColor: #007470
+OceanIslandRoofedForest.bc:BiomeColor: #007670
+OceanPlateau.bc:BiomeColor: #007870
+OceanPlateauLow.bc:BiomeColor: #007A70
+OceanPlateauM.bc:BiomeColor: #007B70
+OceanRocks.bc:BiomeColor: #008070
+OceanRocksDiorite.bc:BiomeColor: #008470
+OceanRocksM.bc:BiomeColor: #008270
+OceanRockyIsland.bc:BiomeColor: #008670
+OceanRockyIslandPeak.bc:BiomeColor: #008870
+Plains.bc:BiomeColor: #8DB360
+River.bc:BiomeColor: #0000FF
+Roofed Forest.bc:BiomeColor: #40511A
+Roofed Forest M.bc:BiomeColor: #364416
+Savanna.bc:BiomeColor: #BDB25F
+Savanna M.bc:BiomeColor: #5B8015
+Savanna Plateau.bc:BiomeColor: #A79D64
+Savanna Plateau M.bc:BiomeColor: #99905C
+Sky.bc:BiomeColor: #8080FF
+Stone Beach.bc:BiomeColor: #A2A284
+Sunflower Plains.bc:BiomeColor: #DEFF00
+Swampland.bc:BiomeColor: #07F9B2
+Swampland M.bc:BiomeColor: #28D29F
+Taiga.bc:BiomeColor: #0B6659
+TaigaHills.bc:BiomeColor: #163933
+Taiga M.bc:BiomeColor: #0A5B4F
+TemperateHills.bc:BiomeColor: #8DB361
+TemperateHillsBorder.bc:BiomeColor: #8DB362
+TemperateHillsForest.bc:BiomeColor: #8DB363
+TemperateLonePeak.bc:BiomeColor: #8DB364
+TemperateLowlands.bc:BiomeColor: #8DB365
+TemperateLowlandsEdge.bc:BiomeColor: #8DB366
+TemperatePlains.bc:BiomeColor: #8DB367
+TemperatePlainsCypresshill.bc:BiomeColor: #8DB368
+TemperatePlainsDarkMeadow.bc:BiomeColor: #8DB369
+TemperatePlainsHeathland.bc:BiomeColor: #8DB370
+TemperatePlainsM.bc:BiomeColor: #8DB371
+TemperatePlainsMeadow.bc:BiomeColor: #8DB372
+TemperatePlainsMeadowBorder.bc:BiomeColor: #8DB373
+TemperatePlainsMeadowM.bc:BiomeColor: #8DB374
+TemperatePlainsOakgrove.bc:BiomeColor: #8DB375
+TemperatePlainsOakgroveBorder.bc:BiomeColor: #8DB376
+The Void.bc:BiomeColor: #B6D0FF
